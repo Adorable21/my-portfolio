@@ -30,9 +30,6 @@ const siteProps = {
   gitHub: "Adorable21",
   instagram: "estheremoedume",
   linkedIn: "estheremoedume",
-  medium: "",
-  twitter: "",
-  youTube: "",
 };
 
 const primaryColor = "#4E567E";
